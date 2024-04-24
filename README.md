@@ -28,9 +28,9 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedakcabey&layout=compact&langs_count=5" alt="en çok kullandığım diller" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdakcby&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmmdakcby)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
