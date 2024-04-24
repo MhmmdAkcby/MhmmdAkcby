@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, Ben Muhammed Akçabey! 👋</h1>
+<h1 align="center">Hi, I'm Muhammed Akçabey! 👋</h1>
 
 <p align="center">Mobile and Backend Developer</p>
 
