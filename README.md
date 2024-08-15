@@ -12,7 +12,6 @@
 
   <a href="https://www.linkedin.com/in/muhammed-akcabey">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="64" height="64"/>
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="64" height="64"/>
   </a>
 
 ### Languages and Tools:
