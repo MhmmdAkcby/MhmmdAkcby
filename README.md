@@ -25,6 +25,8 @@
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="56" height="56"/>
   <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="56" height="56"/>
   <img src="https://img.icons8.com/color/48/000000/asp.png" alt="ASP.NET Core" width="56" height="56"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="ASP.NET Core" width="56" height="56"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="ASP.NET Core" width="56" height="56"/>
 </p>
 
 
