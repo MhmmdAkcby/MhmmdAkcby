@@ -6,7 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=muhammedakcabey" alt="profil ziyaret sayısı" />
 </p>
 
-- 🌱 I’m currently learning mobil develop
+- 🌱 I'm currently learning backend.
+- 📫 I am currently developing mobile applications with Flutter.
 
 ### Connect with me:
 
